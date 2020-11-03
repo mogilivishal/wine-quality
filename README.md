@@ -1,4 +1,4 @@
-# Wine-quality Prediction
+# Wine-Quality Prediction
 
 ## Wine-Quality Predictor Application UI:
 
